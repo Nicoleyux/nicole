@@ -3,4 +3,4 @@ second add
 forth add
 third add
 fifth add
-seventh add
+seventh remove
