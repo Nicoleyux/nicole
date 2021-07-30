@@ -5,4 +5,8 @@ third add
 
 fifth add
 
+<<<<<<< HEAD
 sixth add
+=======
+seventh add
+>>>>>>> uat
