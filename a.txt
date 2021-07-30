@@ -1,3 +1,7 @@
 first add
 second add
+<<<<<<< HEAD
 forth add
+=======
+third add
+>>>>>>> uat
