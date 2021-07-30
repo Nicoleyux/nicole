@@ -2,11 +2,6 @@ first add
 second add
 forth add
 third add
-
 fifth add
-
-<<<<<<< HEAD
-sixth add
-=======
 seventh add
->>>>>>> uat
+
